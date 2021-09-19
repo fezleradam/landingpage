@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Redirection to Main page</title>
+    <title>Redirection</title>
 </head>
 <body>
 <script>
